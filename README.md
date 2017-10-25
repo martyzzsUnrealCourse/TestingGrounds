@@ -16,4 +16,4 @@ So yeah any feedback is more than welcome so I can figure out wheather it is wor
 ## Project Status and Updates
 
 * 25.10.17
-Just starting out at this part of the course.
+Just starting this part of the course right now.
