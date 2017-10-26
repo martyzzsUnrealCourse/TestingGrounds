@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2017 EmbraceIT Ltd
+Copyright (c) 2017 Martins Fridenbergs
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
